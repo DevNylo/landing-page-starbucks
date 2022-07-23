@@ -48,6 +48,7 @@ section.sobre{
 
 .extras{
     position: absolute;
+    z-index: -1;
     bottom:-450px;
     right:-500px;
     width: 1200px;
